@@ -1,0 +1,13 @@
+https://itproger.com/news/raspoznavanie-teksta-s-kartinki-python-tesseract-orc-opencv
+https://github.com/UB-Mannheim/tesseract/wiki
+
+
+
+pip install opencv-python (cv2)
+
+
+pip install aiogram
+pip install datetime
+pip install datetime
+pip install opencv-contrib-python 
+pip install pytesseract
