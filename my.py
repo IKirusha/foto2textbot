@@ -9,7 +9,7 @@ dir_name = 'folder'
 if not os.path.isdir(dir_name):
     os.mkdir(dir_name)
 
-TOKEN = '5248070100:AAEjFm4mfeaFpJEEPcOzQlfvAThH4y0rPy4'
+TOKEN = ''
 bot = telebot.TeleBot(TOKEN)
 
 
