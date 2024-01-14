@@ -8,5 +8,3 @@ import os, time, shutil
 import sqlite3
 
 from datetime import datetime
-
-myid = 913070769
